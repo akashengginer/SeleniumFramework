@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="netBankingV1" duration-ms="16084" started-at="2019-03-10T18:52:06Z" finished-at="2019-03-10T18:52:22Z">
+    <groups>
+    </groups>
+    <test name="Net Banking Web Test" duration-ms="16084" started-at="2019-03-10T18:52:06Z" finished-at="2019-03-10T18:52:22Z">
+      <class name="com.netBankingV1.testCases.TC_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.netBankingV1.testCases.TC_001@548e7350]" name="setup" is-config="true" duration-ms="3581" started-at="2019-03-10T18:52:06Z" finished-at="2019-03-10T18:52:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.netBankingV1.testCases.TC_001@548e7350]" name="loginTest" duration-ms="11738" started-at="2019-03-10T18:52:09Z" finished-at="2019-03-10T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.netBankingV1.testCases.TC_001@548e7350]" name="tearDown" is-config="true" duration-ms="728" started-at="2019-03-10T18:52:21Z" finished-at="2019-03-10T18:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.netBankingV1.testCases.TC_001 -->
+    </test> <!-- Net Banking Web Test -->
+  </suite> <!-- netBankingV1 -->
+</testng-results>
